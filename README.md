@@ -1,0 +1,6 @@
+- Hi, I’m Litten
+- I’m interested in Oneshot and fnf modding
+- I’m currently learning C++
+- I’m looking to collaborate on some fnf mod projects (primarily charting)
+- How to reach me through discord (LittenBitten#4629)
+- My pronouns are He/Him
