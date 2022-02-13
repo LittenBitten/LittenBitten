@@ -1,7 +1,3 @@
-- Hi, I’m Litten
-- I’m interested in FNF modding
-- I’m currently learning C++
-- I’m looking to collaborate on some fnf mod projects (primarily charting)
-- How to reach me is through discord (LittenBitten#4629)
+- I’m Litten
 - My pronouns are He/Him
 - I am 15 years old
